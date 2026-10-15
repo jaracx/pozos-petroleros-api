@@ -1,0 +1,20 @@
+[
+  {
+    "codigo": "PZO-001",
+    "ubicacion": "Loma Campana, Neuquén",
+    "estado": "activo",
+    "fechaProduccion": "2018-03-15"
+  },
+  {
+    "codigo": "PZO-002",
+    "ubicacion": "Bajada del Palo, Neuquén",
+    "estado": "en mantenimiento",
+    "fechaProduccion": "2020-07-22"
+  },
+  {
+    "codigo": "PZO-003",
+    "ubicacion": "Aguada Añelo, Neuquén",
+    "estado": "activo",
+    "fechaProduccion": "2022-11-05"
+  }
+]
