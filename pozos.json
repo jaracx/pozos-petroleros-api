@@ -1,20 +1,32 @@
 [
   {
+    "id": 1,
     "codigo": "PZO-001",
-    "ubicacion": "Loma Campana, Neuquén",
+    "nombre": "Pozo Vaca Muerta Alpha",
+    "ubicacion": "Añelo, Neuquén",
     "estado": "activo",
-    "fechaProduccion": "2018-03-15"
+    "fechaProduccion": "2021-03-15",
+    "barriles_diarios": 1250,
+    "profundidad_metros": 2800
   },
   {
+    "id": 2,
     "codigo": "PZO-002",
-    "ubicacion": "Bajada del Palo, Neuquén",
-    "estado": "en mantenimiento",
-    "fechaProduccion": "2020-07-22"
+    "nombre": "Pozo Loma Campana West",
+    "ubicacion": "Loma Campana, Neuquén",
+    "estado": "mantenimiento",
+    "fechaProduccion": "2020-08-20",
+    "barriles_diarios": 0,
+    "profundidad_metros": 3100
   },
   {
+    "id": 3,
     "codigo": "PZO-003",
+    "nombre": "Pozo Aguada Añelo",
     "ubicacion": "Aguada Añelo, Neuquén",
     "estado": "activo",
-    "fechaProduccion": "2022-11-05"
+    "fechaProduccion": "2022-11-05",
+    "barriles_diarios": 980,
+    "profundidad_metros": 2650
   }
 ]
